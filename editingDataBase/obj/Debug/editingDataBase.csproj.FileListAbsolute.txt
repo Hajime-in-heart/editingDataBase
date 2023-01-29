@@ -1,0 +1,39 @@
+E:\#Developed\Projects C#\Project\editingDataBase\editingDataBase\bin\Debug\editingDataBase.exe.config
+E:\#Developed\Projects C#\Project\editingDataBase\editingDataBase\obj\Debug\editingDataBase.csproj.ResolveComReference.cache
+E:\#Developed\Projects C#\Project\editingDataBase\editingDataBase\bin\Debug\editingDataBase.exe
+E:\#Developed\Projects C#\Project\editingDataBase\editingDataBase\bin\Debug\editingDataBase.pdb
+E:\#Developed\Projects C#\Project\editingDataBase\editingDataBase\obj\Debug\editingDataBase.csprojResolveAssemblyReference.cache
+E:\#Developed\Projects C#\Project\editingDataBase\editingDataBase\obj\Debug\Autorization.Form1.resources
+E:\#Developed\Projects C#\Project\editingDataBase\editingDataBase\obj\Debug\Autorization.Form2.resources
+E:\#Developed\Projects C#\Project\editingDataBase\editingDataBase\obj\Debug\editingDataBase.Properties.Resources.resources
+E:\#Developed\Projects C#\Project\editingDataBase\editingDataBase\obj\Debug\editingDataBase.csproj.GenerateResource.Cache
+E:\#Developed\Projects C#\Project\editingDataBase\editingDataBase\obj\Debug\editingDataBase.exe
+E:\#Developed\Projects C#\Project\editingDataBase\editingDataBase\obj\Debug\editingDataBase.pdb
+C:\Users\UserPC\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.csprojResolveAssemblyReference.cache
+C:\Users\UserPC\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.exe
+C:\Users\UserPC\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.pdb
+C:\Users\UserPC\Desktop\editingDataBase\editingDataBase\bin\Debug\editingDataBase.exe.config
+C:\Users\UserPC\Desktop\editingDataBase\editingDataBase\bin\Debug\editingDataBase.exe
+C:\Users\UserPC\Desktop\editingDataBase\editingDataBase\bin\Debug\editingDataBase.pdb
+C:\Users\UserPC\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.csproj.ResolveComReference.cache
+C:\Users\UserPC\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.addUser.resources
+C:\Users\UserPC\Desktop\editingDataBase\editingDataBase\obj\Debug\Autorization.Form1.resources
+C:\Users\UserPC\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.Users.resources
+C:\Users\UserPC\Desktop\editingDataBase\editingDataBase\obj\Debug\Autorization.Form2.resources
+C:\Users\UserPC\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.Properties.Resources.resources
+C:\Users\UserPC\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.csproj.GenerateResource.Cache
+C:\Users\Dar1K\Desktop\editingDataBase\editingDataBase\bin\Debug\editingDataBase.exe.config
+C:\Users\Dar1K\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.csproj.ResolveComReference.cache
+C:\Users\Dar1K\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.exe
+C:\Users\Dar1K\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.pdb
+C:\Users\Dar1K\Desktop\editingDataBase\editingDataBase\bin\Debug\editingDataBase.exe
+C:\Users\Dar1K\Desktop\editingDataBase\editingDataBase\bin\Debug\editingDataBase.pdb
+C:\Users\Dar1K\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.csprojResolveAssemblyReference.cache
+C:\Users\Dar1K\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.addUser.resources
+C:\Users\Dar1K\Desktop\editingDataBase\editingDataBase\obj\Debug\Autorization.Form1.resources
+C:\Users\Dar1K\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.Users.resources
+C:\Users\Dar1K\Desktop\editingDataBase\editingDataBase\obj\Debug\Autorization.Form2.resources
+C:\Users\Dar1K\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.Properties.Resources.resources
+C:\Users\Dar1K\Desktop\editingDataBase\editingDataBase\obj\Debug\editingDataBase.csproj.GenerateResource.Cache
+E:\#Developed\Projects C#\Project\editingDataBase\editingDataBase\obj\Debug\editingDataBase.Users.resources
+E:\#Developed\Projects C#\Project\editingDataBase\editingDataBase\obj\Debug\editingDataBase.controlUsers.resources
